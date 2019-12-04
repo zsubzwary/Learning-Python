@@ -1,5 +1,7 @@
-num1 = input("Enter first number: ")
-num2 = input("Enter second number: ")
+color = input("Enter color: ")
+noun = input("Enter a noun: ")
+celebrity = input("Enter a name of celebrity: ")
 
-result = float(num1) + float(num2)
-print(result)
+print("Roses are " + color)
+print(noun + " are blue")
+print("I love " + celebrity)
