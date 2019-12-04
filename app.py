@@ -1,6 +1,3 @@
-from math import *
+name = input("Type your name: ")
 
-my_num = -5
-print(floor(3.7))
-print(ceil(3.7))
-print(sqrt(3.7))
+print("Hi " + name + "!")
