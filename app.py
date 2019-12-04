@@ -1,3 +1,4 @@
-name = input("Type your name: ")
+name = input("Enter your name: ")
+age = input("Enter your age: ")
 
-print("Hi " + name + "!")
+print("Hi " + name + "! You are " + age + " years old.")
